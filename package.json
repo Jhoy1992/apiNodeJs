@@ -19,6 +19,6 @@
     "nodemailer": "^6.1.1",
     "nodemailer-express-handlebars": "^3.0.0",
     "path": "^0.12.7",
-    "yarn": "^1.17.3"
+    "yarn": "^1.22.0"
   }
 }
